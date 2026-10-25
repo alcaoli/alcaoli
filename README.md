@@ -1,66 +1,70 @@
-![Capa Alcaoli — imagem, código e narrativa](./profile-header.svg)
+![Alcaoli — imagem, código e narrativa](./profile-header.svg)
 
-<div align="center">
-  <a href="https://portfolio-alca.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-D9A0B2?style=for-the-badge&logo=vercel&logoColor=171416" alt="Portfólio"></a>
-  <a href="https://instagram.com/alcaolii"><img src="https://img.shields.io/badge/INSTAGRAM-21191D?style=for-the-badge&logo=instagram&logoColor=D9A0B2" alt="Instagram"></a>
-  <a href="https://github.com/alcaoli"><img src="https://img.shields.io/badge/GITHUB-21191D?style=for-the-badge&logo=github&logoColor=F5F0EF" alt="GitHub"></a>
+<div align="left">
+  <a href="https://portfolio-alca.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-D9EF69-11120F?style=flat-square&logo=vercel&logoColor=11120F" alt="Portfólio"></a>
+  &nbsp; <a href="https://instagram.com/alcaolii">Instagram ↗</a>
+  &nbsp; <a href="https://github.com/alcaoli">GitHub ↗</a>
 </div>
 
 <br>
 
-## ✳ Sobre
+<sub><code>01 / QUEM SOU</code></sub>
 
-Sou Alcaoli, criador independente no Brasil. Gosto de transformar ideias em coisas que podem ser vistas, sentidas e experimentadas. Transito entre audiovisual e desenvolvimento para criar projetos com personalidade — cada ideia pede sua própria linguagem.
+# Alcaoli
 
-## ◌ Dois caminhos. Um olhar.
+Audiovisual e desenvolvimento web — imagens, histórias e experiências digitais com identidade.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Audiovisual</h3>
-      <p>Filmes, vídeos e narrativas visuais que carregam uma sensação — e ficam com você.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌘ Desenvolvimento</h3>
-      <p>Sites e experiências digitais onde o design encontra tecnologia e cada detalhe tem propósito.</p>
-    </td>
-  </tr>
-</table>
+> *Criar coisas que possam ser vistas, experimentadas e lembradas.*
 
-## ⟡ Linguagens & ferramentas
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-D9A0B2?style=for-the-badge&logo=typescript&logoColor=171416" alt="TypeScript">
-  <img src="https://img.shields.io/badge/CSS-21191D?style=for-the-badge&logo=css3&logoColor=D9A0B2" alt="CSS">
-  <img src="https://img.shields.io/badge/Next.js-21191D?style=for-the-badge&logo=nextdotjs&logoColor=F5F0EF" alt="Next.js">
-  <img src="https://img.shields.io/badge/Godot-21191D?style=for-the-badge&logo=godotengine&logoColor=D9A0B2" alt="Godot">
+<sub><code>02 / FRENTES DE CRIAÇÃO</code></sub>
+
+### Audiovisual
+
+Narrativas visuais pensadas para criar atmosfera, movimento e memória.
+
+### Desenvolvimento
+
+Sites e experiências digitais com design, código e atenção aos detalhes.
+
+<br>
+
+<sub><code>03 / LINGUAGENS & FERRAMENTAS</code></sub>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-D9EF69-11120F?style=flat-square&logo=typescript&logoColor=11120F" alt="TypeScript">
+  <img src="https://img.shields.io/badge/CSS-171815-EEEDE6?style=flat-square&logo=css3&logoColor=D9EF69" alt="CSS">
+  <img src="https://img.shields.io/badge/Next.js-171815-EEEDE6?style=flat-square&logo=nextdotjs&logoColor=EEEDE6" alt="Next.js">
+  <img src="https://img.shields.io/badge/Godot-171815-EEEDE6?style=flat-square&logo=godotengine&logoColor=E9A176" alt="Godot">
 </div>
 
-<p align="center"><sub>TypeScript e CSS nos projetos web · Next.js e Godot nos projetos digitais e interativos</sub></p>
+<sub><code>WEB — TYPESCRIPT · CSS · NEXT.JS</code> &nbsp; / &nbsp; <code>INTERATIVO — GODOT</code></sub>
 
-## ✦ Projetos em destaque
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Flomar Propiedades</h3>
-      <p>Uma experiência digital para apresentar imóveis e a identidade de uma imobiliária na Argentina.</p>
-      <a href="https://github.com/alcaoli/flomar.propiedades">REPOSITÓRIO ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Projeto Billie</h3>
-      <p>Narrativa interativa autoral em desenvolvimento, combinando direção visual, criação de mundos e jogos.</p>
-      <a href="https://portfolio-alca.vercel.app/desenvolvimento.html#portfolio">VER PROJETO ↗</a>
-    </td>
-  </tr>
-</table>
+<sub><code>04 / PROJETOS</code></sub>
 
----
+### Flomar Propiedades
 
-<div align="center">
-  <h3>Tem uma ideia? Vamos dar forma a ela.</h3>
-  <a href="https://portfolio-alca.vercel.app">✳ Conheça meu trabalho</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/alcaolii">✉ Fale comigo</a>
-  <br><br>
-  <sub>IMAGEM · CÓDIGO · NARRATIVA</sub>
-</div>
+Experiência digital para uma imobiliária na Argentina, com foco em identidade e apresentação de imóveis.
+
+[Ver repositório ↗](https://github.com/alcaoli/flomar.propiedades)
+
+### Projeto Billie
+
+Projeto autoral de narrativa interativa em desenvolvimento, unindo direção visual e criação de mundos.
+
+[Ver no portfólio ↗](https://portfolio-alca.vercel.app/desenvolvimento.html#portfolio)
+
+<br>
+
+<sub><code>05 / CONTATO</code></sub>
+
+### Tem uma ideia? Vamos dar forma a ela.
+
+[Conheça meu trabalho ↗](https://portfolio-alca.vercel.app) &nbsp; · &nbsp; [Instagram ↗](https://instagram.com/alcaolii)
+
+<br>
+
+<sub>IMAGEM &nbsp;·&nbsp; CÓDIGO &nbsp;·&nbsp; NARRATIVA</sub>
